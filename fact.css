@@ -1,0 +1,21 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/numbers-fact-bg.png");
+    background-size: cover;
+    text-align: center;
+    height:100vh;
+}
+.fact-heading{
+    font-size: 35px;
+    font-family: roboto;
+    font-style: bold;
+    color: #fff;
+}
+.input-fact{
+    font-size: 14px;
+}
+.paragraph-fact{
+    font-size: 35px;
+    font-family: roboto;
+    font-style: 100;
+    color: #fff;
+}
